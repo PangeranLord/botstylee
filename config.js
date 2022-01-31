@@ -2,15 +2,15 @@ global.DeveloperMode = 'false' //true Or false
 global.linkGC = ['']
 global.Owner = {
   // use the phone number with the country code, for example Indonesia '62' America '1' etc
-  '6281376900646': { // put your number here
-    name: 'ZeilBotz',
+  '6287832147584': { // put your number here
+    name: 'PangeranBotZ',
     isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   }
 }
-global.mods = ['6289625556161'] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.mods = ['6287832147584'] // Want some help?
+global.prems = ['6287832147584'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
