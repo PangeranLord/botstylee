@@ -12,7 +12,7 @@ key: {
 						"mimetype": "image/jpeg",
 						"jpegThumbnail": fs.readFileSync(`./src/profil.jpg`) //Gambarnye
 					},
-					"title": "tokonya bang", //Kasih namalu 
+					"title": "PangeranBotZ", //Kasih namalu 
 					"description": "SELF BOT", 
 					"currencyCode": "USD",
 					"priceAmount1000": "2000",
@@ -33,7 +33,7 @@ const ftroli = {
                             itemCount : 1,
                             status: 1,
                             surface : 1,
-                            message: 'anjay', //Kasih namalu
+                            message: 'PangeranBotZ', //Kasih namalu
                             orderTitle: 'Bang',
                             thumbnail: fs.readFileSync('./src/profil.jpg'), //Gambarnye
                             sellerJid: '0@s.whatsapp.net'
